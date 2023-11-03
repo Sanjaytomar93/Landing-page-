@@ -4,5 +4,5 @@ Welcome to our sleek and modern landing page, crafted with HTML and CSS. Discove
 # Language used 
 1. HTML
 2. CSS
-# DEMO CODE
+# PROJECT DEMO
 https://steady-torte-4b4790.netlify.app/
