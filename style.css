@@ -1,0 +1,46 @@
+body{
+
+    background-image: url(media/landing11.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.div1{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 200%;
+    left: 800px;
+    border: 4px solid black;
+    border-radius: 6%;
+    text-align: center;
+    font-size: larger;
+    color: brown;
+   
+    
+   
+}
+.div2{
+    height: 100px;
+    width: 25%;
+    text-align: left;
+  
+    font-size: x-large;
+    color: red;
+    font-weight: bolder;
+    word-spacing: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 70px;
+    left: 30px;
+}
+#marquee{
+    color:white;
+    font-size:x-large;
+    font-weight: bolder;
+    text-decoration: underline;
+ 
+}
+#b1{
+    color: green;
+    background-color: black;
+}
